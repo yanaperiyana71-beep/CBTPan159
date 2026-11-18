@@ -1,0 +1,8 @@
+{
+  "name": "CBTPan159",
+  "description": "Platform AI generator soal otomatis, integrasi Google Forms \u0026 Apps Script, bank soal guru, token akses kuis, pemantauan ujian real-time, dan portal secure exam anti-curang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
